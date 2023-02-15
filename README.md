@@ -1,0 +1,1 @@
+Just some excercises for better understanding of js
